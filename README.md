@@ -23,11 +23,11 @@ customMotds:
 ```
 No i właśnie, o co w tym wszystkim chodzi?!
 #####Może po kolei:
-`enableSlotChange: true` - czy włączyć pokazywanie fałszywych slotów <true/false><br>
+`enableSlotChange: true` - czy włączyć pokazywanie fałszywych slotów<br>
 `plusChange:` - tryb 'plus', o trybach dowiesz się więcej, po zapoznaniu się z całym configiem<br>
 `normalNumChange:` - tryb 'num', o nim również więcej, ale trochę później<br>
-`enableInfiniteSlots: true` - czy włączyć nieograniczone sloty (gracze wejdą nawet jeśli serwer jest pełny) <true/false><br>
-`enableMotdChange: true` - czy włączyć zmianę motd na losowe motd z configu (obsługa wielu możliwych motd) <true/false><br>
+`enableInfiniteSlots: true` - czy włączyć nieograniczone sloty (gracze wejdą nawet jeśli serwer jest pełny)<br>
+`enableMotdChange: true` - czy włączyć zmianę motd na losowe motd z configu (obsługa wielu możliwych motd)<br>
 `customMotds` - własne motd, których może być nieskończenie wiele (wyświetlają się losowo); możesz dodawać je w configu, lub komendą z poziomu serwera/konsoli; obsługują kody kolorów jak w Essentials (np. &a, &l) lub moje własne (np. $a, $l)
 
 ==========
@@ -45,12 +45,12 @@ Ten tryb działa w prostszy sposób - zawsze wyświetla taką liczbę slotów, j
 
 =========
 ###Komendy:
-- **/kslots** -> główna i jedyna komenda pluginu, zmieniasz jej działanie dodając różne argumenty
-- **/kslots reload** -> powoduje ponowne wczytanie configu
-- **/kslots slots** -> włącza/wyłącza wyświetlanie fałszywych slotów
-- **/kslots tryb <num/plus>** -> zmienia tryb wyświetlania fałszywych slotów
-- **/kslots infslots** -> włącza/wyłącza nieograniczone sloty
-- **/kslots motd** -> włącza/wyłącza zmienne motd (to pobierane losowo z configu)
-- **/kslots motd list** -> wyświetla listę motd z configu wraz z ich numerami ID (przydatne przy usuwaniu motd komendą)
-- **/kslots motd remove [ID]** -> usuwa z configu motd o konkretnym ID
-- **/kslots motd add [motd]** -> dodaje do configu nowe motd
+- **/kslots** - główna i jedyna komenda pluginu, zmieniasz jej działanie dodając różne argumenty
+- **/kslots reload** - powoduje ponowne wczytanie configu
+- **/kslots slots** - włącza/wyłącza wyświetlanie fałszywych slotów
+- **/kslots tryb <num/plus>** - zmienia tryb wyświetlania fałszywych slotów
+- **/kslots infslots** - włącza/wyłącza nieograniczone sloty
+- **/kslots motd** - włącza/wyłącza zmienne motd (to pobierane losowo z configu)
+- **/kslots motd list** - wyświetla listę motd z configu wraz z ich numerami ID (przydatne przy usuwaniu motd komendą)
+- **/kslots motd remove [ID]** - usuwa z configu motd o konkretnym ID
+- **/kslots motd add [motd]** - dodaje do configu nowe motd
