@@ -1,5 +1,5 @@
 #KSlots
-##Download: <a href="http://www.facebook.com/l.php?u=http%3A%2F%2Fwww.mediafire.com%2Fdownload%2F70pdk769uudtbf0%2FKSlots.jar&h=qAQH0ue7e">LINK</a>
+##Download: <a href="http://www.mediafire.com/download/70pdk769uudtbf0/KSlots.jar">LINK</a>
 ###O co chodzi w tym pluginie?
 **KSlots** to prosty plugin do wyświetlania fałszywej ilości slotów, dodający też używanie dowolnej ilości MOTD na raz. Wiem, config wydaje się skomplikowany, ale jeśli przeczytasz wszystko, będziesz bez problemu obsługiwał plugin :)
 
